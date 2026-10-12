@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220">
+<rect width="600" height="220" rx="28" fill="#080d19"/>
+<g transform="translate(40 40)">
+<circle cx="67" cy="58" r="48" fill="#142743" stroke="#38e0d0" stroke-width="5"/>
+<rect x="31" y="38" width="72" height="42" rx="15" fill="#eff5ff"/>
+<circle cx="52" cy="59" r="5" fill="#38bfb9"/><circle cx="82" cy="59" r="5" fill="#38bfb9"/>
+<path d="M67 10V0" stroke="#38e0d0" stroke-width="6" stroke-linecap="round"/><circle cx="67" cy="-3" r="8" fill="#38e0d0"/>
+<rect x="22" y="100" width="94" height="58" rx="12" fill="#12213a" stroke="#38e0d0" stroke-width="4"/>
+<circle cx="69" cy="129" r="20" fill="#38e0d0"/><text x="69" y="138" font-size="28" font-family="Arial,sans-serif" text-anchor="middle" font-weight="800" fill="#081426">$</text>
+</g>
+<text x="190" y="125" font-family="Arial,sans-serif" font-size="51" font-weight="800" fill="#eff5ff">Agentic</text><text x="422" y="125" font-family="Arial,sans-serif" font-size="51" font-weight="800" fill="#38e0d0">Pay</text>
+<text x="195" y="158" font-family="Arial,sans-serif" font-size="12" letter-spacing="2.1" font-weight="700" fill="#93a5c0">PROGRAMMABLE PAYMENTS FOR AI</text>
+</svg>
